@@ -1,0 +1,3 @@
+# Dart Asynchronous Exception Handling Bug
+
+This repository demonstrates a common bug in Dart code involving improper exception handling within asynchronous operations using `async`/`await`. The original code lacks robust error handling, potentially leading to unexpected behavior or crashes.  The solution provides improved exception handling to gracefully manage errors and provide informative feedback.
